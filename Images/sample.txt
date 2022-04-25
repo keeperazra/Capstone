@@ -1,0 +1,7 @@
+\clef "alto"
+
+c'2
+
+\relative {
+a'4 b a c g
+}
