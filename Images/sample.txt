@@ -1,7 +1,9 @@
 \clef "alto"
 
-c'2
+c'2.
 
 \relative {
-a'4 b a c g
+a'4 bis aisis ces geses
 }
+
+fes'8.
