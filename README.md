@@ -1,4 +1,4 @@
 # Capstone
-Fall 2021 Capstone project
+2021-2022 Capstone project
 
-For now, check the [wiki](https://github.com/keeperazra/Capstone/wiki). More details will be added here when/if there is relevant code.
+Check the [wiki](https://github.com/keeperazra/Capstone/wiki) for documentation.
