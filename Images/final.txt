@@ -1,0 +1,4 @@
+\clef "treble"
+\relative {
+c''1 d'2 a''4. b g c d a g b a fis8 cis''. e4 b'' a g f e d c c2 d e f g a b c d e
+}
